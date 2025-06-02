@@ -40,3 +40,4 @@ function atualizarContadores() {
 
 atualizarContadores();
 setInterval(atualizarContadores, 1000);
+return;
